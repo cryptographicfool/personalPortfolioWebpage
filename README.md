@@ -2,4 +2,4 @@
 
 Responsive personal portfolio page built using HTML, CSS, JS and Bootstrap. This was created for front-end development class assignment.
 
-You can see the page [here]().
+You can see the page [here](https://cgfportfolio.netlify.com/).
